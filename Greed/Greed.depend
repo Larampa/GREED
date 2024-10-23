@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1729645910 source:c:\users\ramir\desktop\integrador de programacion\greed\greed\cargarnombrejugadores.cpp
+	<iostream>
+	"Funciones.h"
+	"DatosJugadores.h"
+
+1729641604 c:\users\ramir\desktop\integrador de programacion\greed\greed\funciones.h
+
+1729645910 c:\users\ramir\desktop\integrador de programacion\greed\greed\datosjugadores.h
+	<string>
+
+1729645758 source:c:\users\ramir\desktop\integrador de programacion\greed\greed\creditos.cpp
+	<iostream>
+	"Funciones.h"
+	"DatosJugadores.h"
+
+1729637877 source:c:\users\ramir\desktop\integrador de programacion\greed\greed\tituloymenu.cpp
+	<iostream>
+	"Funciones.h"
+	"DatosJugadores.h"
+
+1729645924 source:c:\users\ramir\desktop\integrador de programacion\greed\greed\main.cpp
+	<iostream>
+	<ctime>
+	"Funciones.h"
+	"DatosJugadores.h"
+
+1729641372 source:c:\users\ramir\desktop\integrador de programacion\greed\greed\tirar.cpp
+	<iostream>
+	"Funciones.h"
+	"DatosJugadores.h"
+
